@@ -71,10 +71,36 @@
       alt="typescript" width="40" height="40" /> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/2x/vue-js.png"
       alt="vuejs" width="40" height="40" /> </a> </p>
+<h2 align="center">GitHub's Analytics 🕵️‍♀️</h2>
+</hr>
 
+ <div align="center">
+  <h3 align="center"> My Stats 🔥</h3>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=soaibakhtar&show_icons=true&theme=onedark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=soaibakhtar&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=soaibakhtar&show_icons=true" />
+</picture>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soaibakhtar&show_icons=true&locale=en&layout=compact" alt="soaibakhtar" /></p>
+<div align="center">
+  <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soaibakhtar&layout=compact&theme=onedark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soaibakhtar&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/top-langs/?username=soaibakhtar&show_icons=true&layout=compact" />
+</picture>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soaibakhtar&show_icons=true&locale=en" alt="soaibakhtar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soaibakhtar&" alt="soaibakhtar" /></p>
+<h1>See My All Top Project 👇</h1>
