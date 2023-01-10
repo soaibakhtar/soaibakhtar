@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **soaiba43@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11dO2FSrJv_KBJfxtXPfnDRrNgxzZwuri/view?usp=sharing](https://drive.google.com/file/d/11dO2FSrJv_KBJfxtXPfnDRrNgxzZwuri/view?usp=sharing)
+- 📄 Know about my experiences [Resume](/https://drive.google.com/file/d/11dO2FSrJv_KBJfxtXPfnDRrNgxzZwuri/view)
 
 - ⚡ Fun fact **I think I am funny**
 
