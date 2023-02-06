@@ -14,11 +14,11 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **soaiba43@gmail.com**
+- 📫 How to reach me *soaiba43@gmail.com*
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11dO2FSrJv_KBJfxtXPfnDRrNgxzZwuri/view)
       
- - 📄 Know about my experiences [Portfolio](https://soaibakhtar.github.io/) [Repo](https://github.com/soaibakhtar/soaibakhtar) 
+ - 📄 Know about my experiences [Portfolio](https://soaibakhtar.github.io/)
 
 - ⚡ Fun fact **I think I am funny**
 
