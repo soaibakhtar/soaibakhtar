@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me *soaiba43@gmail.com*
+- 📫 How to reach me `soaiba43@gmail.com`
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11dO2FSrJv_KBJfxtXPfnDRrNgxzZwuri/view)
       
