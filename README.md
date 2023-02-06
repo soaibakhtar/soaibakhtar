@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11dO2FSrJv_KBJfxtXPfnDRrNgxzZwuri/view)
       
- - 📄 Know about my experiences [Portfolio](https://soaibakhtar.github.io/) [Portfolio](https://github.com/soaibakhtar/soaibakhtar) 
+ - 📄 Know about my experiences [Portfolio](https://soaibakhtar.github.io/) [Repo](https://github.com/soaibakhtar/soaibakhtar) 
 
 - ⚡ Fun fact **I think I am funny**
 
