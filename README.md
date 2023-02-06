@@ -17,6 +17,8 @@
 - 📫 How to reach me **soaiba43@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11dO2FSrJv_KBJfxtXPfnDRrNgxzZwuri/view)
+      
+ - 📄 Know about my experiences [Portfolio](https://soaibakhtar.github.io/) [Portfolio](https://github.com/soaibakhtar/soaibakhtar) 
 
 - ⚡ Fun fact **I think I am funny**
 
