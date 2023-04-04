@@ -57,10 +57,7 @@
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a> <a
     href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://img.icons8.com/color/2x/nodejs.png"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://img.icons8.com/color-glass/2x/adobe-photoshop.png" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
       src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" width="40" height="40" />
   </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://img.icons8.com/color/2x/react-native.png"
