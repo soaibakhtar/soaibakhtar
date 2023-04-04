@@ -57,7 +57,7 @@
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a> <a
     href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://img.icons8.com/color/2x/nodejs.png"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/" target="_blank"
     rel="noreferrer"> <img
       src="https://img.icons8.com/color-glass/2x/adobe-photoshop.png" alt="photoshop"
       width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
